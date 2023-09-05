@@ -25,7 +25,7 @@
 * From: 04/05/2003.
 * Until: 13/05/2007.
 * Institution: University of Almería (UAL).
-* Departament: Computer Architectura and Electronics.
+* Departament: Computer Architecture and Electronics.
 * Address: Ctra. Sacramento, s/n, 04120 Almería, Spain.
 
 ## Professor at UAL (Informatics department)
