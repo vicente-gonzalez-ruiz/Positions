@@ -1,5 +1,3 @@
-# Positions
-
 ## Associate professor at UGR
 
 * Position name: Associate professor (full-time).
