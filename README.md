@@ -8,7 +8,7 @@
 * Until: 07/09/1993.
 * Institution: University of Granada (UGR).
 * Departament: Electronics.
-* Address: Av. de Fuente Nueva, s/n, 18071 Granada.
+* Address: Av. de Fuente Nueva, s/n, 18071 Granada, Spain.
 
 ## Associate professor at UAL
 
@@ -17,7 +17,7 @@
 * Until: 03/05/2003.
 * Institution: University of Almería (UAL).
 * Departament: Computer Architecture and Electronics.
-* Address: Ctra. Sacramento, s/n, 04120 Almería.
+* Address: Ctra. Sacramento, s/n, 04120 Almería, Spain.
 
 ## Professor at UAL (Computer Architecture and Electronics department)
 
@@ -26,7 +26,7 @@
 * Until: 13/05/2007.
 * Institution: University of Almería (UAL).
 * Departament: Computer Architectura and Electronics.
-* Address: Ctra. Sacramento, s/n, 04120 Almería.
+* Address: Ctra. Sacramento, s/n, 04120 Almería, Spain.
 
 ## Professor at UAL (Informatics department)
 
@@ -35,5 +35,5 @@
 * Until: Now.
 * Institution: University of Almería (UAL).
 * Departament: Informatics.
-* Address: Ctra. Sacramento, s/n, 04120 Almería.
+* Address: Ctra. Sacramento, s/n, 04120 Almería, Spain.
 
