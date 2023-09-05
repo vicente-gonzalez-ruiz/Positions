@@ -19,7 +19,7 @@
 * Departament: Computer Architecture and Electronics.
 * Address: Ctra. Sacramento, s/n, 04120 Almería.
 
-## Professor at UAL (Computer Architectura and Electronics department)
+## Professor at UAL (Computer Architecture and Electronics department)
 
 * Position name: Professor.
 * From: 04/05/2003.
