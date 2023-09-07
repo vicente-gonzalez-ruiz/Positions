@@ -3,7 +3,7 @@
 ## Associate professor at UGR
 
 * Position name: Associate professor (full-time).
-* Area: 
+* Area: Computer Architecture and Electronics.
 * From: 01/10/1992.
 * Until: 07/09/1993.
 * Institution: University of Granada (UGR).
@@ -13,6 +13,7 @@
 ## Associate professor at UAL
 
 * Position name: Associate professor (full-time).
+* Area: Computer Architecture and Electronics.
 * From: 08/09/1993.
 * Until: 03/05/2003.
 * Institution: University of Almería (UAL).
@@ -22,6 +23,7 @@
 ## Professor at UAL (Computer Architecture and Electronics department)
 
 * Position name: Professor.
+* Area: Computer Architecture and Electronics.
 * From: 04/05/2003.
 * Until: 13/05/2007.
 * Institution: University of Almería (UAL).
@@ -31,6 +33,7 @@
 ## Professor at UAL (Informatics department)
 
 * Position name: Professor.
+* Area: Computer Architecture and Electronics.
 * From: 14/05/2007.
 * Until: Now.
 * Institution: University of Almería (UAL).
